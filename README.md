@@ -1,4 +1,4 @@
 # gini_task
-Private and Business clients bank transactions (deposit - withdraw) <br/>
+Calculate Private and Business clients transactions (deposit - withdraw) commission fee <br/>
 ##To run example in terminal:<br/>
   php index.php
